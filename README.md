@@ -3,8 +3,11 @@ pip install -r requirements.txt
 ```
 
 ### Add your username and password in aums.py
-![image](https://github.com/user-attachments/assets/0f5d7963-984c-4cbf-af10-6a9b5c29e650)
+---
+
 Make sure that your aums contains only relevent subjects in the navbar. 
+
+![image](https://github.com/user-attachments/assets/0f5d7963-984c-4cbf-af10-6a9b5c29e650)
 
 ### To deactivate old subjects:
 - Go to Home tab and select preferences
